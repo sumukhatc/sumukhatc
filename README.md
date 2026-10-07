@@ -4,12 +4,12 @@ I'm an AI Engineer working on agentic systems and the infrastructure to evaluate
 
 <!-- Turn this on after November when there is activity to show
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumukhatc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
--->
+
 📄 Papers
 - **Position: Early-Stage Quality Assurance in Annotation Pipelines Is More Cost-Effective Than Late-Stage Validation** — ICML 2026 · co-first author · [arXiv](https://arxiv.org/abs/2605.15714)
 - **GUIDE: Governed Unified Intelligence for Document-to-Artifact Generation** — VLDB 2026 Workshop, BayLearn 2026 · [arXiv](https://arxiv.org/abs/2608.12133)
 - **GVD: Governed Versioning and Deduplication for Document Repositories** — BayLearn 2026 · [arXiv](https://arxiv.org/abs/2609.17696)
-
+-->
 <!--
 **sumukhatc/sumukhatc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
